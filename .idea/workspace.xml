@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e79972e-2f01-4de0-a0ed-3db8efbcae2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/neo4j-game-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/database_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Gaming_Neo4j_Project.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Neo4j.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/entities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries/basic_queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/base_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/developer_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/game_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/player_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/relationship_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/analytics_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/game_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/player_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_repositoru.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/logger.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32yrdlWC4Q1v9lM2ZAaAD10rxdF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e79972e-2f01-4de0-a0ed-3db8efbcae2a" name="Changes" comment="" />
+      <created>1758403742872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758403742872</updated>
+    </task>
+    <servers />
+  </component>
+</project>
